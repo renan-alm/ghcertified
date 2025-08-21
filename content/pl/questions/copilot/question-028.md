@@ -5,6 +5,5 @@ question: "Dodając kontekst w czacie, możliwe jest dodanie pojedynczych plikó
 
 
 > https://learn.microsoft.com/en-us/training/modules/get-started-github-copilot/10-examine-chat-view-features
-1. [x] Fałszywe
-1. [ ] Prawdziwe
-
+1. [x] Fałszywe  
+1. [ ] Prawdziwe  
