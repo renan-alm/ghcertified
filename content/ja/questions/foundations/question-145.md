@@ -1,9 +1,9 @@
 ---
-title: "質問 145"
-question: "GitHub Repositoryにファイルを追加するために必要な操作はどれですか？"
+title: "Question 145"
+question: "GitHubリポジトリにファイルを追加するために必要なアクションはどれですか？"
 ---
 
-> **詳細**: [Repository permission levels for an organization](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/repository-permission-levels-for-an-organization)
-1. [ ] Repositoryのオーナーであること  
-1. [ ] Repositoryへの読み取り権限を持っていること  
-1. [x] Repositoryへの書き込み権限を持っていること
+> **詳細情報**: [組織のリポジトリの権限レベル](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/repository-permission-levels-for-an-organization)
+1. [ ] リポジトリ所有者であること。
+1. [ ] リポジトリへの読み取りアクセス権を持っていること。
+1. [x] リポジトリへの書き込みアクセス権を持っていること。
