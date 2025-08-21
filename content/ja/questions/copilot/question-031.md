@@ -1,9 +1,10 @@
 ---
 title: "質問 031"
-question: "GitHub CopilotおよびGitHub Copilot Chatで利用可能な機能はどれですか？"
+question: "GitHub Copilot および GitHub Copilot Chat で利用可能な機能はどれですか？"
 ---
 
+
 > https://learn.microsoft.com/en-us/training/modules/develop-code-features-using-github-copilot-tools/2-examine-code-development-features-github-copilot
-1. [x] コード行の補完、インラインチャット、チャットビュー、クイックチャット、スマートアクション
-1. [ ] コード行の補完、インラインチャット、チャットビュー、スマートアクション、コードリサーチ
-1. [ ] コード行の補完、インラインチャット、コードコンテナ、クイックチャット
+1. [x] Code line completions, inline chat, chat view, quick chat, smart actions
+1. [ ] Code line completions, inline chat, chat view, smart actions, code research
+1. [ ] Code line completions, inline chat, code container, quick chat
