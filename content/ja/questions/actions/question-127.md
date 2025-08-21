@@ -1,5 +1,5 @@
 ---
-question: "GitHub Actionsジョブの後続ステップに対して、'API_VERSION' という環境変数に '2.1' を設定する正しいWorkflowコマンド構文はどれですか？"
+question: "次のステップでGitHub Actionsジョブの環境変数 'API_VERSION' に値 '2.1' を正しく設定するワークフローコマンド構文はどれですか？"
 title: "質問 127"
 ---
 

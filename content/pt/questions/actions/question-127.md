@@ -1,5 +1,5 @@
 ---
-question: "Qual sintaxe de comando de workflow define corretamente uma variável de ambiente chamada 'API_VERSION' com o valor '2.1' para etapas subsequentes em um trabalho do GitHub Actions?"
+question: "Qual sintaxe de comando de workflow define corretamente uma variável de ambiente chamada 'API_VERSION' com o valor '2.1' para etapas subsequentes em um job do GitHub Actions?"
 title: "Pergunta 127"
 ---
 

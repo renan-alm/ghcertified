@@ -1,6 +1,6 @@
 ---
 title: "Pregunta 036"
-question: "¿Dónde puedes encontrar información sobre preocupaciones relacionadas con la seguridad, propiedad intelectual y privacidad en el uso de GitHub Copilot?"
+question: "¿Dónde puedes encontrar información sobre inquietudes relacionadas con la seguridad, la propiedad intelectual y la privacidad respecto al uso de GitHub Copilot?"
 ---
 
 
