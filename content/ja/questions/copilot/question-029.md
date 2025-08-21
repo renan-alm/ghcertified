@@ -1,6 +1,6 @@
 ---
-title: "質問 029"
-question: "GitHub Copilot Chatでプロンプトのコンテキストとして追加できるものは次のうちどれですか？（3つ選択）"
+title: "Question 029"
+question: "次のうち、GitHub Copilot Chatでプロンプトのコンテキストとして追加できるものはどれですか？（3つ選択してください）"
 ---
 
 > https://learn.microsoft.com/en-us/training/modules/get-started-github-copilot/10-examine-chat-view-features
