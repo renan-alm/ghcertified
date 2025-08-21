@@ -1,5 +1,5 @@
 ---
-question: "¿Qué sintaxis de comando de flujo de trabajo establece correctamente una variable de entorno llamada 'API_VERSION' con el valor '2.1' para los pasos posteriores en un trabajo de GitHub Actions?"
+question: "¿Qué sintaxis de comandos de flujo de trabajo configura correctamente una variable de entorno llamada 'API_VERSION' con el valor '2.1' para pasos subsecuentes en un trabajo de GitHub Actions?"
 title: "Pregunta 127"
 ---
 
