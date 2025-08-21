@@ -9,7 +9,7 @@ weight: 50
 
 **Cursos de Microsoft**
 
-Comienza con un curso de Microsoft Learn. Cubren muchos temas y son un excelente punto de partida.
+Comienza con un curso de Microsoft Learn. Cubren una amplia gama de temas y son un excelente punto de partida.
 
 - [Microsoft Learn: GitHub Foundations](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
 - [Microsoft Learn: GitHub Actions](https://learn.microsoft.com/en-us/collections/n5p4a5z7keznp5)
@@ -35,8 +35,8 @@ Comienza con un curso de Microsoft Learn. Cubren muchos temas y son un excelente
 
 Otros Recursos Gratuitos
 - [GitHub Skills](https://learn.github.com/skills) - Cursos interactivos de GitHub
-- [GitHub Actions Hero](https://github-actions-hero.vercel.app/) - Entorno de pruebas para GitHub Actions
-- [ExamPro: GitHub Foundations](https://www.youtube.com/playlist?list=PLBfufR7vyJJ4uRXqarjPKqxYq4_Pexj1V) - Curso de YouTube para la certificación de GitHub Foundations
-- [ExamPro: GitHub Actions](https://www.youtube.com/playlist?list=PLBfufR7vyJJ5cW6kvAqxHyjLJ1MX3H4rX) - Curso de YouTube para la certificación de GitHub Actions
-- [GitHub Advanced Security Certification Exam Prep](https://github.com/orgs/community/discussions/137197) - Hilo de la comunidad de GitHub con una guía de estudio estructurada de cuatro semanas
-- [GitHub Copilot Certification Exam Prep](https://github.com/orgs/community/discussions/144443) - Hilo de la comunidad de GitHub con una guía de estudio estructurada de cuatro semanas
+- [GitHub Actions Hero](https://github-actions-hero.vercel.app/) - Un entorno de prácticas para GitHub Actions
+- [ExamPro: GitHub Foundations](https://www.youtube.com/playlist?list=PLBfufR7vyJJ4uRXqarjPKqxYq4_Pexj1V) - Curso en YouTube para la certificación de GitHub Foundations
+- [ExamPro: GitHub Actions](https://www.youtube.com/playlist?list=PLBfufR7vyJJ5cW6kvAqxHyjLJ1MX3H4rX) - Curso en YouTube para la certificación de GitHub Actions
+- [GitHub Advanced Security Certification Exam Prep](https://github.com/orgs/community/discussions/137197) - Hilo en la comunidad de GitHub con una guía estructurada de estudio de cuatro semanas
+- [GitHub Copilot Certification Exam Prep](https://github.com/orgs/community/discussions/144443) - Hilo en la comunidad de GitHub con una guía estructurada de estudio de cuatro semanas
